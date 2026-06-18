@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mish</h1>
-<h3 align="center">Junior+ KMP Developer</h3>
+<h3 align="center">Middle+ KMP Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishbanya&label=Profile%20views&color=0e75b6&style=flat" alt="mishbanya" /> </p>
 
